@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
+<embed src="../files/pulick_cv_9_25.pdf" width="800" height="600">
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

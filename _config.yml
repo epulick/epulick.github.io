@@ -23,14 +23,14 @@ repository               : "epulick.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Eric Pulick"
   pronouns         : # example: "she/her"  
   bio              : "5th Year PhD Student in Industrial & Systems Engineering"
   location         : "Madison, WI"
   employer         : "University of Wisconsin - Madison"
   uri              : # URL
-  email            : "pulick (at) wisc (dot) edu" 
+  email            : "pulick@wisc.edu" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/eric-pulick
+  linkedin         : eric-pulick
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
