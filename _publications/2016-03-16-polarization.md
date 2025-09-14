@@ -8,7 +8,7 @@ date: 2016-03-16
 venue: 'Journal of Artificial Societies and Social Simulation'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'https://doi.org/10.18564/jasss.3021'
-citation: '__Pulick, E.__, Korth, P., Grim, P., & Jung, J. (2016). Modeling Interaction Effects in Polarization: Individual Media Influence and the Impact of Town Meetings. _Journal of Artificial Societies and Social Simulation_, 19(2), 1. DOI: 10.18564/jasss.3021'
+citation: '<em>Pulick, E.</em>, Korth, P., Grim, P., & Jung, J. (2016). Modeling Interaction Effects in Polarization: Individual Media Influence and the Impact of Town Meetings. <strong>Journal of Artificial Societies and Social Simulation<strong>, 19(2), 1. DOI: 10.18564/jasss.3021'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
