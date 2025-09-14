@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-<embed src="../files/pulick_cv_9_25.pdf" width="800" height="700">
+<embed src="../files/pulick_cv.pdf" width="800" height="700">
 
