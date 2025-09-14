@@ -2,7 +2,7 @@
 title: "Modeling Interaction Effects in Polarization: Individual Media Influence and the Impact of Town Meetings"
 collection: publications
 category: manuscripts
-permalink: 'https://doi.org/10.18564/jasss.3021'
+link: 'https://doi.org/10.18564/jasss.3021'
 excerpt: 'This work uses agent-based model simulations to explore the interplay between direct, human-to-human interaction and media influence on political idea spread.'
 date: 2016-03-16
 venue: 'Journal of Artificial Societies and Social Simulation'
